@@ -2,7 +2,6 @@ package com.example.demo.Room;
 
 import java.util.Date;
 
-
 public class Room {
 	
 	private Long id;
